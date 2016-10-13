@@ -1,0 +1,8 @@
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\bin\Debug\cc2538_connect.exe.config
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\bin\Debug\cc2538_connect.exe
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\bin\Debug\cc2538_connect.pdb
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\obj\Debug\cc2538_connect.Form1.resources
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\obj\Debug\cc2538_connect.Properties.Resources.resources
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\obj\Debug\cc2538_connect.csproj.GenerateResource.Cache
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\obj\Debug\cc2538_connect.exe
+C:\Users\aCo\documents\visual studio 2012\Projects\cc2538_connect\cc2538_connect\obj\Debug\cc2538_connect.pdb
