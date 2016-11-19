@@ -23,3 +23,11 @@ Debug 2 UART/Serial/COM Devices at once
 - Then click "Feed Stängd" to open ang get live data feed
 
 
+
+
+
+        
+Like it?   Keep me going
+
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=LFMQEBTS2VH4U)
