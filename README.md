@@ -1,7 +1,7 @@
 # Dual COM Sniffer
 Debug/Read two UART/Serial/COM Devices at once.
 
-Live Packet Data Sniffer
+<b>Live Packet Data Sniffer</b>
 
 
 
